@@ -1,0 +1,14 @@
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rounded background -->
+  <rect x="0" y="0" width="240" height="240" rx="48" ry="48" fill="#334155"/>
+  <!-- Stopwatch icon -->
+  <g transform="translate(84, 50)" stroke="#fbbf24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <circle cx="36" cy="48" r="32"/>
+    <line x1="36" y1="48" x2="36" y2="32"/>
+    <line x1="36" y1="16" x2="36" y2="0"/>
+    <line x1="24" y1="0" x2="48" y2="0"/>
+    <line x1="60" y1="24" x2="68" y2="16"/>
+  </g>
+  <!-- Text -->
+  <text x="120" y="185" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="48" font-weight="bold" fill="white">idle</text>
+</svg>
