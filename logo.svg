@@ -10,5 +10,5 @@
     <line x1="60" y1="24" x2="68" y2="16"/>
   </g>
   <!-- Text -->
-  <text x="120" y="185" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="48" font-weight="bold" fill="white">idle</text>
+  <text x="120" y="185" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="38" font-weight="bold" fill="white">uptime</text>
 </svg>
